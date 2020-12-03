@@ -10,13 +10,13 @@
 
 ### BINDING PHRASE: ### 
 
--DMY_BINDING_PHRASE="default ExpressLRS binding phrase"
+-DMY_BINDING_PHRASE="poinha"
 
 
 ### REGULATORY DOMAIN: ### 
 
 #-DRegulatory_Domain_AU_915
-#-DRegulatory_Domain_EU_868
+-DRegulatory_Domain_EU_868
 #-DRegulatory_Domain_AU_433
 #-DRegulatory_Domain_EU_433
 #-DRegulatory_Domain_FCC_915
@@ -25,7 +25,7 @@
 
 ### SWITCHES: ### 
 
-#-DHYBRID_SWITCHES_8
+-DHYBRID_SWITCHES_8
 
 
 ### PERFORMANCE OPTIONS: ### 
